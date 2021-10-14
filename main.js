@@ -6,6 +6,7 @@ const app = Vue.createApp({
          type: "Devs",
          specs: ["150% Wool", "98% Cashmere", "70% Cotton"],
          selectedVariant: 0,
+         inventory : 90,
          variants: [
             {
                id: 123,
